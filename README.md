@@ -10,13 +10,15 @@ This is a simple Todo application built with React.
 - Filter tasks by status (all, active, completed)
 
 ## Installation
+1. create a folder to-do app
 
-1. Clone the repository:
+2. Clone the repository:
    git clone https://github.com/SakshiY-Dev/taskmate-todolist.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    cd todo-app
-3. Install dependencies:
+   
+5. Install dependencies:
    npm install
 
 ## Usage
