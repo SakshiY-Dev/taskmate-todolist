@@ -12,7 +12,7 @@ This is a simple Todo application built with React.
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/SakshiY-Dev/taskmate-todolist.git
 
 2. Navigate to the project directory:
    cd todo-app
